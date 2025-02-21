@@ -14,7 +14,7 @@ Welcome to the SkyReels V1 repository! Here, you'll find the Text-to-Video & Ima
 ## 🔥🔥🔥 News!!
 * Feb 18, 2025: 👋 We release the inference code and model weights of SkyReels-V1 Text2Video Model. [Download](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V)
 * Feb 18, 2025: 👋 We release the inference code and model weights of SkyReels-V1 Image2Video Model. [Download](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V)
-* Feb 18, 2025: 🔥 We also release SkyReels-A1  [SkyReels-A1](https://github.com/SkyworkAI/SkyReels-A1). This is a simple yet effective framework portrait image animation model. 
+* Feb 18, 2025: 🔥 We also release [SkyReels-A1](https://github.com/SkyworkAI/SkyReels-A1). This is a open-sourced and effective framework portrait image animation model. 
 
 ## 🌟 Overview
 
