@@ -11,6 +11,11 @@
 ---
 Welcome to the SkyReels V1 repository! Here, you'll find the Text-to-Video & Image-to-Video model weights and inference code for our groundbreaking video foundation model.
 
+## 🔥🔥🔥 News!!
+* Feb 18, 2025: 👋 We release the inference code and model weights of SkyReels-V1 Text2Video Model. [Download](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V)
+* Feb 18, 2025: 👋 We release the inference code and model weights of SkyReels-V1 Image2Video Model. [Download](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V)
+* Feb 18, 2025: 🔥 We also release SkyReels-A1  [SkyReels-A1](https://github.com/SkyworkAI/SkyReels-A1). This is a simple yet effective framework portrait image animation model. 
+
 ## 🌟 Overview
 
 SkyReels V1 is the first and most advanced open-source human-centric video foundation model. By fine-tuning <a href="https://huggingface.co/tencent/HunyuanVideo">HunyuanVideo</a> on O(10M) high-quality film and television clips, SkyReels V1 offers three key advantages:
